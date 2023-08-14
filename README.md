@@ -1,3 +1,3 @@
-# go-template
+# gohtmx-todo
 
-Simple go template
+Taking htmx and go for a test drive with a todo app
